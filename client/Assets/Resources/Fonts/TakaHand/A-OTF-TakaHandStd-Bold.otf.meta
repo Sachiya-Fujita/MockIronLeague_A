@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: 7ec304fcc6a48ee4bb9ab99888ad9973
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: A-OTF TakaHand Std
+  fontNames:
+  - A-OTF TakaHand Std
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 7dec7bf5377a9264ab9480219dad141a, type: 3}
+  - {fileID: 12800000, guid: 10913d6943722e14e9a833becb7aebfd, type: 3}
+  - {fileID: 12800000, guid: 344ddd9b740bb73438150abac9adc9b6, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
